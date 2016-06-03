@@ -5,7 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "async": "^2.0.0-rc.5",
-    "google-translate": "^1.0.6"
+    "google-translate": "^1.0.6",
+    "minimist": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
